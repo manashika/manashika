@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫Hey there, I'm Manashika 
 Hey there, I'm Manashika <br>- Once I started with curiosity… now I speak the language of data 📊✨<br><br>🎓 Master’s Student in Data Science at SASTRA University<br>🌱 Exploring → Generative AI · Deep Learning · Neural Networks · Cloud Technologies <br>💬 Ask me about → Python · SQL · Tableau · R · Machine Learning <br>⚡ Fun fact → I treat datasets like stories waiting to be told<br>🎯 Goal → Build data-driven solutions that create meaningful impact
 
 
