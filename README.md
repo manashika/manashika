@@ -1,4 +1,4 @@
-## Hi, I'm Manashika
+## Hi, I'm Manashika ✨
 <br>Data Science postgraduate student at SASTRA University with a passion for turning data into actionable insights through analytics, machine learning, and AI. Experienced in building predictive models and data-driven applications, with a strong interest in solving real-world problems using innovative technologies. Currently exploring Generative AI, advanced machine learning techniques, and cloud-based solutions.
 
 
