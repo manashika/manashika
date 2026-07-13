@@ -1,5 +1,9 @@
 ## Hi, I'm Manashika ✨
-<br>Data Science postgraduate student at SASTRA University with a passion for turning data into actionable insights through analytics, machine learning, and AI. Experienced in building predictive models and data-driven applications, with a strong interest in solving real-world problems using innovative technologies. Currently exploring Generative AI, advanced machine learning techniques, and cloud-based solutions.
+<br>I'm currently pursuing my M.Sc in Data Science at SASTRA University (2025–2027), after completing my B.Sc in Data Science at M.O.P. Vaishnav College for Women (2022–2025). I'm based in Chennai, India.
+
+I'm building a strong foundation in data analysis, machine learning, and business analytics, with hands-on experience extracting insights and supporting data-driven decisions using Python, SQL, R, Excel, Tableau, and Power BI. Through internships in data science and web design, I've worked on real-world datasets — data preprocessing, exploratory data analysis, visualization, and problem-solving — alongside tools like MongoDB, RapidMiner, HTML, and CSS.
+
+I'm actively exploring AI-powered analytics and development, and I'm open to entry-level roles, internships, and project-based opportunities as a Data Analyst, Business Analyst, Junior Data Scientist, BI Analyst, Product Analyst, Analytics Engineer, or ML Engineer (Entry-Level).
 
 
 # 💻 Tech Stack:
