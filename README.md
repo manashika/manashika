@@ -1,7 +1,7 @@
 <!-- HERO SECTION -->
 <div align="center">
 <p align="center">
-  <img src="assets/541654d7-0654-4567-beb0-e7a52117ee58.jpg" alt="MANASHIKA" width="100%" height="180" style="object-fit: cover;">
+  <img src="https://github.com/manashika/manashika/blob/main/images/33306c76-e812-4128-89d0-0bdb3a24d26d.png?raw=true"  width="100%" height="180" style="object-fit: cover;">
 </p>
 
 <p>
@@ -18,4 +18,26 @@
 </div>
 
 <br/>
+
+
+<!-- ABOUT & MEDIA SECTION -->
+<!-- ================= ABOUT ME ================= -->
+<h2 align="center">🚀 About Me</h2>
+
+<table width="100%" border="0">
+<tr>
+<td width="40%" valign="top" style="border: none; background: none;">
+
+### 👨‍💻 Who am I?
+
+* 🎓 **Master's Student in Data Science (2025–2027)** • SASTRA University
+* 💻 Passionate about uncovering meaningful insights through data and building intelligent AI solutions.
+* 🤖 Building end-to-end Machine Learning projects—from data preprocessing and visualization to model development and deployment.
+* 🌱 Currently learning **Generative AI, Transformers, Computer Vision, LLM Engineering, Agentic AI & RAG, MLOps Fundamentals, Reinforcement Learning, System Design, Cloud Technologies, NLP**
+
+<blockquote>
+  <p align="left">
+    <i>"Behind every dataset is a problem worth solving."."</i>
+  </p>
+</blockquote>
 
