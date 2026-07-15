@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=500&size=28&duration=3500&pause=1000&color=F8BBD0&center=true&vCenter=true&width=800&lines=M.Sc.+Data+Science+Student;Aspiring+Data+Scientist;Data+Analyst;Python+Developer;Machine+Learning+Enthusiast;Generative+AI+Learner;Turning+Data+into+Insights"/>
+<img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=500&size=28&duration=3500&pause=1000&color=F8BBD0&center=true&vCenter=true&width=800&lines=M.Sc.+Data+Science+Student; Data+Scientist;Data+Analyst;Python+Developer;Machine+Learning+Enthusiast;Generative+AI+Learner;Turning+Data+into+Insights"/>
 </p>
 
 <p>
