@@ -1,9 +1,9 @@
 <h1 align="center">
-  Hey there, I'm <span style="color:#EF93C4;">Houria</span>
+  Hey there, I'm <span style="color:#EF93C4;">Manashika</span>
 </h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=28&duration=3500&pause=1000&color=F8BBD0&font=Josefin+Sans&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI+Builder;Content+Creator;Open+Source+Enthusiast;Problem+Solver"/>
+<img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=500&size=28&duration=3500&pause=1000&color=F8BBD0&center=true&vCenter=true&width=800&lines=M.Sc.+Data+Science+Student;Aspiring+Data+Scientist;Data+Analyst;Python+Developer;Machine+Learning+Enthusiast;Generative+AI+Learner;Turning+Data+into+Insights"/>
 </p>
 
 <p>
