@@ -1,7 +1,9 @@
-<!-- HERO SECTION -->
-<div align="center">
+<h1 align="center">
+  Hey there, I'm <span style="color:#EF93C4;">Houria</span>
+</h1>
+
 <p align="center">
-  <img src="https://github.com/manashika/manashika/blob/main/images/33306c76-e812-4128-89d0-0bdb3a24d26d.png?raw=true"  width="100%" height="180" style="object-fit: cover;">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=28&duration=3500&pause=1000&color=F8BBD0&font=Josefin+Sans&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI+Builder;Content+Creator;Open+Source+Enthusiast;Problem+Solver"/>
 </p>
 
 <p>
