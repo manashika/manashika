@@ -45,22 +45,56 @@
 </td>
 </tr>
 
-
 <!-- PROJECTS -->
 <h2>💼 Featured Projects</h2>
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>👤 <a href="#">Face Recognition with Age & Gender Prediction</a></h3>
-      <p>Developed a deep learning-based computer vision application to detect human faces and predict age and gender from images using Convolutional Neural Networks (CNNs). Implemented the complete machine learning pipeline, including data preprocessing, model training, evaluation, and performance optimization.</p>
+      <h3>🔐 <a href="#">PolicyGuard AI</a></h3>
+      <p>An AI-powered Privacy Risk Analyzer that automatically analyzes Privacy Policies and Terms & Conditions for desktop, web, and mobile applications.</p>
       <p>
-        <code>Python</code> <code>TensorFlow</code> <code>PyTorch</code> <code>OpenCV</code> <code>CNN</code> 
+        <code>React</code> <code>React Native</code> <code>Electron</code> <code>Node.js</code> <code>MongoDB</code> <code>OpenAI API</code> <code>Docker</code>
       </p>
       <ul>
-        <li>✔ ✔ Built CNN-based models for face detection and age & gender classification.</li>
-        <li>✔ Performed image preprocessing, feature extraction, model training, and hyperparameter tuning.</li>
-        <li>✔ Evaluated model performance using classification metrics and optimized prediction accuracy.</li>
+        <li>✔ AI Risk Detection & Privacy Score Generation</li>
+        <li>✔ Real-time Desktop Monitoring & Alerts</li>
       </ul>
     </td>
     <td width="50%" valign="top">
+      <h3>🏢 <a href="#">Multi-Tenant SaaS Platform</a></h3>
+      <p>A production-ready SaaS platform supporting multiple organizations with secure tenant isolation, RBAC, and team management.</p>
+      <p>
+        <code>Node.js</code> <code>Express.js</code> <code>React</code> <code>PostgreSQL</code> <code>Docker</code> <code>JWT</code>
+      </p>
+      <ul>
+        <li>✔ Secure Tenant Isolation & Granular RBAC</li>
+        <li>✔ Real-time Task Tracking & Project Management</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💳 <a href="#">Payment Gateway System</a></h3>
+      <p>A complete financial payment gateway supporting hosted checkouts, merchant dashboards, UPI, and card payments.</p>
+      <p>
+        <code>Spring Boot</code> <code>Node.js</code> <code>React</code> <code>PostgreSQL</code> <code>Docker</code>
+      </p>
+      <ul>
+        <li>✔ Merchant Dashboard & Order Management</li>
+        <li>✔ Secure Hosted Checkout Flow</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 <a href="#">Tech360 Portal</a></h3>
+      <p>Collaborated in a team of six to build a unified hub empowering students and developers through real-time career resources.</p>
+      <p>
+        <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code> <code>Bootstrap</code> <code>Contest Tracker API</code>
+      </p>
+      <ul>
+        <li>✔ Live Contest Tracking & DSA Learning Platform</li>
+        <li>✔ Dynamic Resume Builder & Job Drive Modules</li>
+      </ul>
+    </td>
+  </tr>
+</table>
