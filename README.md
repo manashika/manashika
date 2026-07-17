@@ -51,18 +51,19 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🔐 <a href="#">PolicyGuard AI</a></h3>
-      <p>An AI-powered Privacy Risk Analyzer that automatically analyzes Privacy Policies and Terms & Conditions for desktop, web, and mobile applications.</p>
+      <h3>👤<a href="#">Face Recognition with Age & Gender Prediction</a></h3>
+      <p>Developed a deep learning-based computer vision application to detect human faces and predict age and gender from images using Convolutional Neural Networks (CNNs). Implemented the complete machine learning pipeline, including data preprocessing, model training, evaluation, and performance optimization.</p>
       <p>
-        <code>React</code> <code>React Native</code> <code>Electron</code> <code>Node.js</code> <code>MongoDB</code> <code>OpenAI API</code> <code>Docker</code>
+        <code>Python</code> <code>TensorFlow</code> <code>PyTorch</code> <code>OpenCV</code> <code>CNN</code>
       </p>
       <ul>
-        <li>✔ AI Risk Detection & Privacy Score Generation</li>
-        <li>✔ Real-time Desktop Monitoring & Alerts</li>
+        <li>✔ Built CNN-based models for face detection and age & gender classification.</li>
+        <li>✔ Performed image preprocessing, feature extraction, model training, and hyperparameter tuning.</li>
+        <li>✔ Evaluated model performance using classification metrics and optimized prediction accuracy.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🏢 <a href="#">Multi-Tenant SaaS Platform</a></h3>
+      <h3>🎵<a href="#">Predictive Analytics for Music Preferences</a></h3>
       <p>A production-ready SaaS platform supporting multiple organizations with secure tenant isolation, RBAC, and team management.</p>
       <p>
         <code>Node.js</code> <code>Express.js</code> <code>React</code> <code>PostgreSQL</code> <code>Docker</code> <code>JWT</code>
