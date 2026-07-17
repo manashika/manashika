@@ -64,37 +64,41 @@
     </td>
     <td width="50%" valign="top">
       <h3>🎵<a href="#">Predictive Analytics for Music Preferences</a></h3>
-      <p>A production-ready SaaS platform supporting multiple organizations with secure tenant isolation, RBAC, and team management.</p>
+      <p>Built a personalized music recommendation system using collaborative and content-based filtering techniques to recommend songs based on user preferences, listening history, and music characteristics.</p>
       <p>
-        <code>Node.js</code> <code>Express.js</code> <code>React</code> <code>PostgreSQL</code> <code>Docker</code> <code>JWT</code>
+        <code>Python</code> <code>Pandas</code> <code>Scikit-learn</code> <code>NumPy</code> 
       </p>
       <ul>
-        <li>✔ Secure Tenant Isolation & Granular RBAC</li>
-        <li>✔ Real-time Task Tracking & Project Management</li>
+        <li>✔ Performed data preprocessing, feature engineering, and recommendation modeling.</li>
+        <li>✔ Implemented collaborative and content-based filtering algorithms.</li>
+        <li>✔ Evaluated recommendation performance to improve prediction relevance and user experience.</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>💳 <a href="#">Payment Gateway System</a></h3>
-      <p>A complete financial payment gateway supporting hosted checkouts, merchant dashboards, UPI, and card payments.</p>
+      <h3>🌦️ <a href="#">Data-Driven Weather Prediction Model</a></h3>
+      <p>Designed and developed a machine learning-based weather forecasting system using historical weather data. Evaluated multiple supervised learning algorithms to improve prediction accuracy and deployed the best-performing model as a REST API for real-time weather forecasting.</p>
       <p>
-        <code>Spring Boot</code> <code>Node.js</code> <code>React</code> <code>PostgreSQL</code> <code>Docker</code>
+        <code>Python</code> <code>Scikit-learn</code> <code>Flask</code> <code>Pandas</code> <code>NumPy</code> <code>Random Forest</code> <code>KNN</code> <code>Logistic Regression</code> <code>XGBoost</code>
       </p>
       <ul>
-        <li>✔ Merchant Dashboard & Order Management</li>
-        <li>✔ Secure Hosted Checkout Flow</li>
+        <li>✔ Built predictive models using Random Forest, KNN, Logistic Regression, and XGBoost.</li>
+        <li>✔ Performed data preprocessing, feature engineering, model training, and performance evaluation.</li>
+        <li>✔ Developed and deployed a REST API for real-time weather forecasting using the highest-performing model.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🌐 <a href="#">Tech360 Portal</a></h3>
-      <p>Collaborated in a team of six to build a unified hub empowering students and developers through real-time career resources.</p>
+      <h3>📊 <a href="#">Exploratory Data Analysis of Social Media Behavior & Addiction Patterns</a></h3>
+      <p>Performed exploratory data analysis (EDA) on social media usage data to identify behavioral patterns, user engagement trends, and factors affecting productivity and digital addiction. Applied statistical analysis and data visualization techniques to generate actionable insights.</p>
       <p>
-        <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code> <code>Bootstrap</code> <code>Contest Tracker API</code>
+        <code>Python</code> <code>Pandas</code> <code>NumPy</code> <code>Matplotlib</code> <code>Seaborn</code> <code>Jupyter Notebook</code>
+      </p>
       </p>
       <ul>
-        <li>✔ Live Contest Tracking & DSA Learning Platform</li>
-        <li>✔ Dynamic Resume Builder & Job Drive Modules</li>
+        <li>✔ Cleaned, transformed, and analyzed structured datasets using Python.</li>
+        <li>✔ Created visualizations to identify trends, distributions, and feature correlations.</li>
+        <li>✔ Generated analytical reports to support data-driven decision-making.</li>
       </ul>
     </td>
   </tr>
