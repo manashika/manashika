@@ -25,7 +25,7 @@
 
 * 🎓 **M.Sc. in Data Science (2025–2027)** • SASTRA University
 * 🎓 Graduated with a **B.Sc. in Data Science (2022–2025)** • M.O.P. Vaishnav College for Women
-* 🤖 Passionate about Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, and Generative AI
+* 🤖 Passionate about Artificial Intelligence, Machine Learning, Deep Learning, IOT, Computer Vision, and Generative AI
 * 💻 Building end-to-end AI and Machine Learning applications using Python and modern data science frameworks
 * 🌱 Currently exploring **Generative AI, Transformers, Computer Vision, Retrieval-Augmented Generation (RAG), MLOps Fundamentals, Reinforcement Learning, System Design, Cloud Technologies, NLP, LLMs and AI**
 * 🤝 Always open to new ideas, exciting collaborations, and innovative AI projects.
@@ -35,6 +35,8 @@
     <i>"I don't just build models. I build intelligent solutions that solve real-world problems."</i>
   </p>
 </blockquote>
+
+
 
 <td width="60%" align="center" valign="middle" style="border: none; background: none;">
 
