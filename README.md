@@ -9,11 +9,6 @@
   />
 </p>
 
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=manashika&color=7AA2F7&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Counter" />
-</p>
-
 <br/>
 
 
