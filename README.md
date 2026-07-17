@@ -52,79 +52,15 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🧠 <a href="#">Face Recognition with Age & Gender Prediction</a></h3>
+      <h3>👤 <a href="#">Face Recognition with Age & Gender Prediction</a></h3>
+      <p>Developed a deep learning-based computer vision application to detect human faces and predict age and gender from images using Convolutional Neural Networks (CNNs). Implemented the complete machine learning pipeline, including data preprocessing, model training, evaluation, and performance optimization.</p>
       <p>
-        Developed a deep learning-based computer vision application to detect human faces and predict age and gender from images using Convolutional Neural Networks (CNNs). Implemented the complete machine learning pipeline, including data preprocessing, model training, evaluation, and performance optimization.
-      </p>
-      <p>
-        <code>Python</code>
-        <code>TensorFlow</code>
-        <code>PyTorch</code>
-        <code>OpenCV</code>
-        <code>CNN</code>
+        <code>Python</code> <code>TensorFlow</code> <code>PyTorch</code> <code>OpenCV</code> <code>CNN</code> 
       </p>
       <ul>
-        <li>✔ Built CNN-based models for face detection and age & gender classification.</li>
-        <li>✔ Performed image preprocessing, model training, evaluation, and hyperparameter tuning.</li>
+        <li>✔ ✔ Built CNN-based models for face detection and age & gender classification.</li>
+        <li>✔ Performed image preprocessing, feature extraction, model training, and hyperparameter tuning.</li>
+        <li>✔ Evaluated model performance using classification metrics and optimized prediction accuracy.</li>
       </ul>
     </td>
-
     <td width="50%" valign="top">
-      <h3>📊 <a href="#">Social Media Behavior & Addiction Analysis</a></h3>
-      <p>
-        Conducted exploratory data analysis (EDA) on social media usage data to identify behavioral patterns, productivity trends, and factors influencing digital addiction using statistical analysis and visualization techniques.
-      </p>
-      <p>
-        <code>Python</code>
-        <code>Pandas</code>
-        <code>NumPy</code>
-        <code>Matplotlib</code>
-        <code>Seaborn</code>
-        <code>Jupyter Notebook</code>
-      </p>
-      <ul>
-        <li>✔ Performed data cleaning, preprocessing, and exploratory analysis.</li>
-        <li>✔ Generated visual insights and analytical reports for data-driven decision-making.</li>
-      </ul>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎵 <a href="#">Predictive Analytics for Music Preferences</a></h3>
-      <p>
-        Developed a personalized music recommendation system using collaborative and content-based filtering techniques to predict user preferences based on listening behavior and music characteristics.
-      </p>
-      <p>
-        <code>Python</code>
-        <code>Pandas</code>
-        <code>NumPy</code>
-        <code>Scikit-learn</code>
-      </p>
-      <ul>
-        <li>✔ Implemented collaborative and content-based recommendation algorithms.</li>
-        <li>✔ Performed feature engineering and evaluated recommendation performance.</li>
-      </ul>
-    </td>
-
-    <td width="50%" valign="top">
-      <h3>🌦️ <a href="#">Data-Driven Weather Prediction Model</a></h3>
-      <p>
-        Developed a machine learning-based weather prediction system using historical weather data to generate real-time forecasts. Evaluated multiple algorithms and deployed the best-performing model through a REST API.
-      </p>
-      <p>
-        <code>Python</code>
-        <code>Scikit-learn</code>
-        <code>Flask</code>
-        <code>Pandas</code>
-        <code>NumPy</code>
-        <code>Random Forest</code>
-        <code>XGBoost</code>
-      </p>
-      <ul>
-        <li>✔ Compared Random Forest, KNN, Logistic Regression, and XGBoost models.</li>
-        <li>✔ Developed and deployed a REST API for real-time weather prediction.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
