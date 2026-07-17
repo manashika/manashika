@@ -27,16 +27,25 @@
 
 ### 👨‍💻 Who am I?
 
-* 🎓 **Master's Student in Data Science (2025–2027)** • SASTRA University
-* 💻 Passionate about uncovering meaningful insights through data and building intelligent AI solutions.
-* 🤖 Building end-to-end Machine Learning projects—from data preprocessing and visualization to model development and deployment.
-* 🌱 Currently learning **Generative AI, Transformers, Computer Vision, LLM Engineering, Agentic AI & RAG, MLOps Fundamentals, Reinforcement Learning, System Design, Cloud Technologies, NLP**
+* 🎓 **M.Sc. in Data Science (2025–2027)** • SASTRA University
+* 🎓 Graduated with a **B.Sc. in Data Science (2022–2025)** • M.O.P. Vaishnav College for Women
+* 🤖 Passionate about Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, and Generative AI
+* 💻 Building end-to-end AI and Machine Learning applications using Python and modern data science frameworks
+* 🌱 Currently exploring **Generative AI, Transformers, Computer Vision, Retrieval-Augmented Generation (RAG), MLOps Fundamentals, Reinforcement Learning, System Design, Cloud Technologies, NLP, LLMs and AI**
+* 🤝 Always open to new ideas, exciting collaborations, and innovative AI projects.
 
 <blockquote>
   <p align="left">
-    <i>"Behind every dataset is a problem worth solving."."</i>
+    <i>"I don't just build models. I build intelligent solutions that solve real-world problems."</i>
   </p>
 </blockquote>
+
+<td width="60%" align="center" valign="middle" style="border: none; background: none;">
+
+<img src="./assets/Create_a_6second_premium_cinematic_looping_a.gif" width="100%" height="auto" alt="Coding Animation"/>
+
+</td>
+</tr>
 
 <h2 align="center">🌐 Let's Connect</h2>
 
