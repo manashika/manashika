@@ -38,7 +38,7 @@
 
 <td width="60%" align="center" valign="middle" style="border: none; background: none;">
 
-<img src="./assets/Create_a_6second_premium_cinematic_looping_a.gif" width="100%" height="auto" alt="Coding Animation"/>
+<img src="https://github.com/manashika/manashika/blob/main/images/Create_a_6second_premium_cinematic_looping_a.gif" width="100%" height="auto" alt="Coding Animation"/>
 
 </td>
 </tr>
