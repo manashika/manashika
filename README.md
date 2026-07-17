@@ -16,9 +16,6 @@
 <!-- ================= ABOUT ME ================= -->
 <h2 align="center">🚀 About Me</h2>
 
-<table width="100%" border="0">
-<tr>
-<td width="40%" valign="top" style="border: none; background: none;">
 
 ### 👨‍💻 Who am I?
 
