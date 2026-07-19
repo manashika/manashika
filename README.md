@@ -4,7 +4,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=500&size=28&duration=3500&pause=1000&color=49228a&center=true&vCenter=true&width=800&lines=M.Sc.+Data+Science+Student;Data+Scientist;Data+Analyst;Python+Developer;Machine+Learning+Enthusiast;Generative+AI+Learner;Turning+Data+into+Insights"
+    src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=500&size=28&duration=3500&pause=1000&color=49228a&center=true&vCenter=true&width=900&lines=M.Sc.+Data+Science+Student;Data+Scientist;Data+Analyst;Business+Analyst;Product+Analyst;Machine+Learning+Engineer;AI+Engineer;Generative+AI+Enthusiast;Python+Developer;Turning+Data+into+Insights"
     alt="Typing SVG"
   />
 </p>
