@@ -4,7 +4,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=500&size=28&duration=3500&pause=1000&color=49228a&center=true&vCenter=true&width=900&lines=I'm+Manashika;🎓+M.Sc.+Data+Science+Student;Data+Scientist+📊;Data+Analyst+📈;Business+Analyst+💼;Product+Analyst+🚀;Machine+Learning+Engineer+🤖;AI+Engineer+🧠;Generative+AI+Enthusiast+✨;Python+Developer+🐍;Transforming+Data+into+Actionable+Insights+💡;Building+Intelligent+Solutions+for+Real-World+Impact+🌍"
+    src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=500&size=28&duration=3500&pause=1000&color=49228A&center=true&vCenter=true&width=1200&lines=I'm+Manashika;M.Sc.+Data+Science+Student+%F0%9F%8E%93;Data+Scientist+%F0%9F%93%8A;Data+Analyst+%F0%9F%93%88;Business+Analyst+%F0%9F%92%BC;Product+Analyst+%F0%9F%9A%80;Machine+Learning+Engineer+%F0%9F%A4%96;AI+Engineer+%F0%9F%A7%A0;Generative+AI+Enthusiast+%E2%9C%A8;Python+Developer+%F0%9F%90%8D;Transforming+Data+into+Actionable+Insights+%F0%9F%92%A1;Building+Intelligent+Solutions+for+Real-World+Impact+%F0%9F%8C%8D"
     alt="Typing SVG"
   />
 </p>
