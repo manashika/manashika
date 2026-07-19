@@ -44,6 +44,9 @@
 
 </td>
 </tr>
+</table>
+
+<br>
 
 <h2 align="center">💻 Tech Stack</h2>
 
@@ -66,6 +69,7 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
 </p>
+<br>
 <!-- PROJECTS -->
 <h2>💼 Featured Projects</h2>
 
@@ -124,3 +128,39 @@
     </td>
   </tr>
 </table>
+
+<h2 align="center">🐍 Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/manashika/manashika/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+<h2 align="center">🌐 Let's Connect</h2>
+
+<p align="center">
+
+<a href="mailto:manashikaa13@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/manashika">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://github.com/manashika">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://leetcode.com/u/manashika/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/manashika">
+  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+</a>
+
+<a href="https://huggingface.co/manashika">
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+</a>
+
+</p>
