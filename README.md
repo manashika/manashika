@@ -1,16 +1,14 @@
 <h1 align="center">
-  👋 Hi there, Welcome to my GitHub!
+  Hi there 👋, Welcome to my GitHub!
 </h1>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=500&size=28&duration=3500&pause=1000&color=49228a&center=true&vCenter=true&width=900&lines=I'm+Manashika;M.Sc.+Data+Science+Student;Data+Scientist;Data+Analyst;Business+Analyst;Product+Analyst;Machine+Learning+Engineer;AI+Engineer;Generative+AI+Enthusiast;Python+Developer;Turning+Data+into+Insights"
+    src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=500&size=28&duration=3500&pause=1000&color=49228a&center=true&vCenter=true&width=900&lines=I'm+Manashika;🎓+M.Sc.+Data+Science+Student;Data+Scientist+📊;Data+Analyst+📈;Business+Analyst+💼;Product+Analyst+🚀;Machine+Learning+Engineer+🤖;AI+Engineer+🧠;Generative+AI+Enthusiast+✨;Python+Developer+🐍;Transforming+Data+into+Actionable+Insights+💡;Building+Intelligent+Solutions+for+Real-World+Impact+🌍"
     alt="Typing SVG"
   />
 </p>
-
 <br/>
-
 
 <!-- ABOUT & MEDIA SECTION -->
 <!-- ================= ABOUT ME ================= -->
