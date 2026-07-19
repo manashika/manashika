@@ -30,11 +30,6 @@
 * 🌱 Currently exploring **Generative AI, Transformers, Computer Vision, Retrieval-Augmented Generation (RAG), MLOps Fundamentals, Reinforcement Learning, System Design, Cloud Technologies, NLP, LLMs and AI**
 * 🤝 Always open to new ideas, exciting collaborations, and innovative AI projects.
 
-<blockquote>
-  <p align="left">
-    <i>"I don't just build models. I build intelligent solutions that solve real-world problems."</i>
-  </p>
-</blockquote>
 
 
 
